@@ -1,0 +1,2 @@
+Olá turma. Este é um arquivo de texto.
+Segunda linha do arquivo
